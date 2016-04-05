@@ -11,4 +11,4 @@ I'll do the test in 7 habits tonight.
 ##2016-04-05
 Getting better with myself  
 Start record my time all 24h  
-Trying to find where I spend my time and to make my time more value.
+Trying to find where I spend my time and to make my time more value
