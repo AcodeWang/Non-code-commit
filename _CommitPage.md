@@ -12,3 +12,6 @@ I'll do the test in 7 habits tonight.
 Getting better with myself  
 Start record my time all 24h  
 Trying to find where I spend my time and to make my time more value
+
+##2016-04-06
+Got a new source to let me focus.  Go
