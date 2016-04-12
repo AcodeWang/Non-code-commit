@@ -15,3 +15,7 @@ Trying to find where I spend my time and to make my time more value
 
 ##2016-04-06
 Got a new source to let me focus.  Go
+
+##2016-04-12
+Only commit in master branch can be counted in profil. WTF 
+But NVM I can start again.
