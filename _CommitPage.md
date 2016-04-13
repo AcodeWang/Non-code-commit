@@ -19,3 +19,7 @@ Got a new source to let me focus.  Go
 ##2016-04-12
 Only commit in master branch can be counted in profil. WTF 
 But NVM I can start again.
+
+##2016-04-13
+Work on Oculus Rift DK2 
+easy to adapt to our project with move function and OVRCamera.
