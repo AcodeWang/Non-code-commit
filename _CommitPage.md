@@ -23,3 +23,7 @@ But NVM I can start again.
 ##2016-04-13
 Work on Oculus Rift DK2 
 easy to adapt to our project with move function and OVRCamera.
+
+##2016-04-14
+Learn Unity UI system via official learning live session.
+Thank You Kobe.
