@@ -27,3 +27,6 @@ easy to adapt to our project with move function and OVRCamera.
 ##2016-04-14
 Learn Unity UI system via official learning live session.
 Thank You Kobe.
+
+##2016-04-19
+need a to-do-list to follow
